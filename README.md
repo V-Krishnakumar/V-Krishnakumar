@@ -1,4 +1,4 @@
-<h1 align="center">👋 Krishna Kumar</h1>
+<h1 align="center">Hi, This is V Krishnakumar</h1>
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:2563eb,100:7c3aed&height=220&section=header&text=AI%20%7C%20Full%20Stack%20%7C%20Systems&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Building%20Real%20Systems.%20Not%20Just%20Projects.&descAlignY=60&descSize=18" />
