@@ -1,36 +1,32 @@
-<h1 align="center">Hi, This is V Krishnakumar</h1>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:2563eb,100:7c3aed&height=220&section=header&text=AI%20%7C%20Full%20Stack%20%7C%20Systems&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Building%20Real%20Systems.%20Not%20Just%20Projects.&descAlignY=60&descSize=18" />
-</p>
+<h1 align="center">Hi, This is V Krishnakumar 👋</h1>
 
 <p align="center">
   <b>Full Stack Developer • AI Systems Engineer • Product Builder</b>
 </p>
 
 <p align="center">
-Building scalable software, intelligent products and real-world technology solutions.
+Turning ideas into scalable products, APIs and intelligent systems.
 </p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Open_To-Internships-success?style=for-the-badge&labelColor=111827" />
-  <img src="https://img.shields.io/badge/Focus-AI%20%7C%20FullStack%20%7C%20Systems-2563EB?style=for-the-badge&labelColor=111827" />
   <img src="https://img.shields.io/badge/Based_In-Chennai-9333EA?style=for-the-badge&labelColor=111827" />
-  <img src="https://komarev.com/ghpvc/?username=V-Krishnakumar&label=PROFILE+VIEWS&color=0ea5e9&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Focus-AI%20Engineering-2563EB?style=for-the-badge&labelColor=111827" />
+  <img src="https://komarev.com/ghpvc/?username=V-Krishnakumar&label=Profile%20Views&color=0ea5e9&style=for-the-badge" />
 </p>
 
 ---
 
 ## 🚀 About Me
 
-* 🔭 Building AI-powered products, APIs and scalable systems
-* 🌱 Learning System Design, DevOps and ML Engineering
-* ⚡ Interested in startups, innovation and product thinking
-* 🎯 Goal: Top placements + world-class engineering skills
+* Building AI-powered products, backend systems and scalable applications
+* Exploring System Design, DevOps and ML Engineering
+* Interested in startups, innovation and product strategy
+* Goal: Strong placements + elite engineering skills
 
 ---
 
-## 🌟 Signature Projects
+## 🌟 Featured Projects
 
 <table>
 <tr>
@@ -38,15 +34,15 @@ Building scalable software, intelligent products and real-world technology solut
 
 ### 🚨 DisasterMesh
 
-Offline rescue communication network using ESP32 + LoRa
+Offline emergency communication network using ESP32 + LoRa
 
 ### 👁️ NETRA
 
-Production ML prediction API with structured inference pipeline
+Production-ready ML prediction API with structured pipeline
 
 ### 🌱 EcoLearn
 
-AI gamified education platform
+AI-powered gamified sustainability platform
 
 </td>
 
@@ -54,15 +50,15 @@ AI gamified education platform
 
 ### 🧠 NeuroAid
 
-AI mental wellness journaling platform
+Mental wellness journaling platform with AI emotion analysis
 
 ### 🛡️ ChainGuard
 
-AML compliance + tamper-proof ledger system
+AML compliance system with tamper-evident ledger verification
 
 ### ⚡ Predict & Power
 
-AI energy forecasting & optimization
+AI microgrid forecasting and optimization platform
 
 </td>
 </tr>
@@ -70,7 +66,7 @@ AI energy forecasting & optimization
 
 ---
 
-## 🛠️ Tech Arsenal
+## 🛠️ Core Stack
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,js,ts,react,nodejs,flask,fastapi,postgresql,mysql,sqlite,git,github,docker,vscode" />
@@ -78,59 +74,54 @@ AI energy forecasting & optimization
 
 ---
 
-## 📊 Live GitHub Analytics
+## 📊 GitHub Insights
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=V-Krishnakumar&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=V-Krishnakumar&layout=compact&theme=tokyonight&hide_border=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=V-Krishnakumar&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=V-Krishnakumar&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=V-Krishnakumar&theme=tokyonight&hide_border=true" />
-</p>
-
----
-
-## 📈 Contribution Activity Graph
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=V-Krishnakumar&theme=tokyo-night&hide_border=true&area=true" />
+  <img src="https://streak-stats.demolab.com?user=V-Krishnakumar&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
 
-## 🏆 Engineering Focus
+## 📈 Contribution Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=V-Krishnakumar&theme=tokyo-night&hide_border=true&area=true&radius=8" />
+</p>
+
+---
+
+## 🎯 Engineering Interests
 
 <p align="center">
   <img src="https://img.shields.io/badge/System_Design-111827?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Backend_APIs-2563EB?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Machine_Learning-16A34A?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Product_Building-9333EA?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Problem_Solving-F59E0B?style=for-the-badge" />
 </p>
 
 ---
 
-## 🌐 Connect With Me
+## 🌐 Connect
 
 <p align="center">
   <a href="https://linkedin.com/in/YOUR-LINK">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-
   <a href="mailto:YOURMAIL@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
-
   <a href="https://github.com/V-Krishnakumar">
     <img src="https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
 </p>
 
 ---
-
-## 💡 Motto
-
+## 💡Motto
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:111827,100:2563eb&height=80&section=footer&text=Building%20Real%20Systems.%20Not%20Just%20Projects.&fontColor=ffffff&fontSize=24&animation=twinkling" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:111827,100:2563eb&height=70&section=footer&text=Building%20Real%20Systems.%20With%20Purpose.&fontColor=ffffff&fontSize=22&animation=twinkling" />
 </p>
