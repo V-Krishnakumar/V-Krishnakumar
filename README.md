@@ -1,7 +1,7 @@
-<h1 align="center">Hi, This is V Krishnakumar 👋</h1>
+<h1 align="center">Hi 👋 I'm V Krishnakumar</h1>
 
 <p align="center">
-  <b>Full Stack Developer • AI Systems Engineer • Product Builder</b>
+  <b>AI/ML Engineer • Full Stack Developer • Backend Engineer</b>
 </p>
 
 <p align="center">
@@ -109,10 +109,10 @@ AI microgrid forecasting and optimization platform
 ## 🌐 Connect
 
 <p align="center">
-  <a href="https://linkedin.com/in/YOUR-LINK">
+  <a href="https://www.linkedin.com/in/krishnakumar--v">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="mailto:YOURMAIL@gmail.com">
+  <a href="mailto:krishnav2606@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
   <a href="https://github.com/V-Krishnakumar">
@@ -121,7 +121,9 @@ AI microgrid forecasting and optimization platform
 </p>
 
 ---
-## 💡Motto
+
+## 💡 Motto
+
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0:111827,100:2563eb&height=70&section=footer&text=Building%20Real%20Systems.%20With%20Purpose.&fontColor=ffffff&fontSize=22&animation=twinkling" />
 </p>
