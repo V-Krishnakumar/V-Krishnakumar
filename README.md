@@ -1,7 +1,7 @@
-<h1 align="center">👋 V Krishnakumar</h1>
+<h1 align="center">👋 Krishna Kumar</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=999999&center=true&vCenter=true&width=0&height=0&lines=" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:2563eb,100:7c3aed&height=220&section=header&text=AI%20%7C%20Full%20Stack%20%7C%20Systems&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Building%20Real%20Systems.%20Not%20Just%20Projects.&descAlignY=60&descSize=18" />
 </p>
 
 <p align="center">
@@ -9,16 +9,13 @@
 </p>
 
 <p align="center">
-Building intelligent systems, scalable products and real-world technology solutions.
+Building scalable software, intelligent products and real-world technology solutions.
 </p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Open_To-Internships-success?style=for-the-badge&labelColor=111827" />
   <img src="https://img.shields.io/badge/Focus-AI%20%7C%20FullStack%20%7C%20Systems-2563EB?style=for-the-badge&labelColor=111827" />
   <img src="https://img.shields.io/badge/Based_In-Chennai-9333EA?style=for-the-badge&labelColor=111827" />
-</p>
-
-<p align="center">
   <img src="https://komarev.com/ghpvc/?username=V-Krishnakumar&label=PROFILE+VIEWS&color=0ea5e9&style=for-the-badge" />
 </p>
 
@@ -26,9 +23,9 @@ Building intelligent systems, scalable products and real-world technology soluti
 
 ## 🚀 About Me
 
-* 🔭 Building AI-powered products, APIs and real-world systems
+* 🔭 Building AI-powered products, APIs and scalable systems
 * 🌱 Learning System Design, DevOps and ML Engineering
-* ⚡ Interested in Startups, Innovation and Scalable Tech
+* ⚡ Interested in startups, innovation and product thinking
 * 🎯 Goal: Top placements + world-class engineering skills
 
 ---
@@ -41,15 +38,15 @@ Building intelligent systems, scalable products and real-world technology soluti
 
 ### 🚨 DisasterMesh
 
-Offline-first rescue communication network using ESP32 + LoRa + live dashboard
+Offline rescue communication network using ESP32 + LoRa
 
 ### 👁️ NETRA
 
-Production-grade ML prediction API with structured inference pipeline
+Production ML prediction API with structured inference pipeline
 
 ### 🌱 EcoLearn
 
-AI-powered gamified education platform with multi-role architecture
+AI gamified education platform
 
 </td>
 
@@ -57,15 +54,15 @@ AI-powered gamified education platform with multi-role architecture
 
 ### 🧠 NeuroAid
 
-Mental wellness journaling platform with AI emotion analysis
+AI mental wellness journaling platform
 
 ### 🛡️ ChainGuard
 
-AML compliance system with tamper-evident ledger verification
+AML compliance + tamper-proof ledger system
 
 ### ⚡ Predict & Power
 
-AI microgrid energy optimization and forecasting system
+AI energy forecasting & optimization
 
 </td>
 </tr>
@@ -81,7 +78,7 @@ AI microgrid energy optimization and forecasting system
 
 ---
 
-## 📊 GitHub Analytics
+## 📊 Live GitHub Analytics
 
 <p align="center">
   <img height="170" src="https://github-readme-stats.vercel.app/api?username=V-Krishnakumar&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
@@ -90,6 +87,14 @@ AI microgrid energy optimization and forecasting system
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com?user=V-Krishnakumar&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+## 📈 Contribution Activity Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=V-Krishnakumar&theme=tokyo-night&hide_border=true&area=true" />
 </p>
 
 ---
@@ -127,5 +132,5 @@ AI microgrid energy optimization and forecasting system
 ## 💡 Motto
 
 <p align="center">
-<b>Building Real Systems. Not Just Projects.</b>
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:111827,100:2563eb&height=80&section=footer&text=Building%20Real%20Systems.%20Not%20Just%20Projects.&fontColor=ffffff&fontSize=24&animation=twinkling" />
 </p>
