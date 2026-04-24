@@ -56,9 +56,9 @@ Mental wellness journaling platform with AI emotion analysis
 
 AML compliance system with tamper-evident ledger verification
 
-### ⚡ Predict & Power
+### ⚙️ Self-Pruning Neural Network
 
-AI microgrid forecasting and optimization platform
+Dynamic sparse learning model in PyTorch with differentiable gates and learned network pruning
 
 </td>
 </tr>
