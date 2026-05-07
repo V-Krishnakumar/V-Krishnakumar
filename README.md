@@ -38,7 +38,7 @@ Offline emergency communication network using ESP32 + LoRa
 
 ### 👁️ NETRA
 
-Production-ready ML prediction API with structured pipeline
+AI-Powered Smart Hospital Operations, Triage & Resource Management Platform
 
 ### 🌱 EcoLearn
 
