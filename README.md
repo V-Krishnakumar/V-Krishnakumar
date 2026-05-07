@@ -1,17 +1,19 @@
 <h1 align="center">Hi 👋 I'm V Krishnakumar</h1>
 
 <p align="center">
-  <b>AI/ML Engineer • Full Stack Developer • Backend Engineer</b>
+  <b>Full-Stack AI Systems Engineer</b>
 </p>
 
 <p align="center">
-Turning ideas into scalable products, APIs and intelligent systems.
+Building intelligent systems, scalable backend architectures, and real-world software products.
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Open_To-Internships-success?style=for-the-badge&labelColor=111827" />
+  <a href="https://forgedbykk.vercel.app/">
+    <img src="https://img.shields.io/badge/Portfolio-Visit%20Website-0ea5e9?style=for-the-badge&logo=react&labelColor=111827" />
+  </a>
   <img src="https://img.shields.io/badge/Based_In-Chennai-9333EA?style=for-the-badge&labelColor=111827" />
-  <img src="https://img.shields.io/badge/Focus-AI%20Engineering-2563EB?style=for-the-badge&labelColor=111827" />
+  <img src="https://img.shields.io/badge/Focus-AI%20Systems-2563EB?style=for-the-badge&labelColor=111827" />
   <img src="https://komarev.com/ghpvc/?username=V-Krishnakumar&label=Profile%20Views&color=0ea5e9&style=for-the-badge" />
 </p>
 
@@ -19,10 +21,10 @@ Turning ideas into scalable products, APIs and intelligent systems.
 
 ## 🚀 About Me
 
-* Building AI-powered products, backend systems and scalable applications
-* Exploring System Design, DevOps and ML Engineering
-* Interested in startups, innovation and product strategy
-* Goal: Strong placements + elite engineering skills
+* **Portfolio:** [forgedbykk.vercel.app](https://forgedbykk.vercel.app/)
+* Building AI-powered systems, realtime platforms, and scalable backend architectures
+* Interested in AI infrastructure, system design, ML engineering, and resilient distributed systems
+* Experienced in full-stack development, ML workflows, APIs, and operational dashboards
 
 ---
 
@@ -33,32 +35,26 @@ Turning ideas into scalable products, APIs and intelligent systems.
 <td width="50%">
 
 ### 🚨 DisasterMesh
+Offline-first emergency communication network using ESP32 + LoRa for disaster rescue coordination
 
-Offline emergency communication network using ESP32 + LoRa
+### 🧠 Self-Pruning Neural Network
+Dynamic sparse learning architecture in PyTorch with differentiable gating and learned network pruning
 
 ### 👁️ NETRA
-
-AI-Powered Smart Hospital Operations, Triage & Resource Management Platform
-
-### 🌱 EcoLearn
-
-AI-powered gamified sustainability platform
+AI-powered hospital operations, triage, and intelligent resource management platform
 
 </td>
 
 <td width="50%">
 
-### 🧠 NeuroAid
+### 🛡️ ChainGuard AML
+Enterprise-grade AML compliance platform with cryptographic ledger verification
 
-Mental wellness journaling platform with AI emotion analysis
+### 🌱 EcoLearn
+Gamified AI-powered sustainability learning and engagement platform
 
-### 🛡️ ChainGuard
-
-AML compliance system with tamper-evident ledger verification
-
-### ⚙️ Self-Pruning Neural Network
-
-Dynamic sparse learning model in PyTorch with differentiable gates and learned network pruning
+### ⚡ Predict & Power
+AI microgrid forecasting and intelligent energy optimization system
 
 </td>
 </tr>
@@ -69,7 +65,7 @@ Dynamic sparse learning model in PyTorch with differentiable gates and learned n
 ## 🛠️ Core Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,js,ts,react,nodejs,flask,fastapi,postgresql,mysql,sqlite,git,github,docker,vscode" />
+  <img src="https://skillicons.dev/icons?i=python,js,ts,react,nextjs,nodejs,flask,fastapi,pytorch,postgresql,mysql,sqlite,docker,linux,git,github,vscode" />
 </p>
 
 ---
@@ -77,12 +73,8 @@ Dynamic sparse learning model in PyTorch with differentiable gates and learned n
 ## 📊 GitHub Insights
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=V-Krishnakumar&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=V-Krishnakumar&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=V-Krishnakumar&theme=tokyonight&hide_border=true" />
+  <img height="180" src="https://github-readme-stats.shion.dev/api?username=V-Krishnakumar&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&cache_id=new_profile" />
+  <img height="180" src="https://github-readme-stats.shion.dev/api/top-langs/?username=V-Krishnakumar&layout=compact&theme=tokyonight&hide_border=true&cache_id=new_profile" />
 </p>
 
 ---
@@ -99,9 +91,9 @@ Dynamic sparse learning model in PyTorch with differentiable gates and learned n
 
 <p align="center">
   <img src="https://img.shields.io/badge/System_Design-111827?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Backend_APIs-2563EB?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Machine_Learning-16A34A?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Product_Building-9333EA?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/AI_Engineering-2563EB?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Backend_Infrastructure-16A34A?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Realtime_Systems-9333EA?style=for-the-badge" />
 </p>
 
 ---
@@ -109,14 +101,14 @@ Dynamic sparse learning model in PyTorch with differentiable gates and learned n
 ## 🌐 Connect
 
 <p align="center">
+  <a href="https://forgedbykk.vercel.app/">
+    <img src="https://img.shields.io/badge/Portfolio-111827?style=for-the-badge&logo=googlechrome&logoColor=white"/>
+  </a>
   <a href="https://www.linkedin.com/in/krishnakumar--v">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="mailto:krishnav2606@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-  <a href="https://github.com/V-Krishnakumar">
-    <img src="https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
 </p>
 
